@@ -2,7 +2,7 @@
 /.idea/
 
 /bitrix/*
-!/bitrix/php_inteface/
+!/bitrix/php_interface/
 !/bitrix/.settings.php
 
 /images/
